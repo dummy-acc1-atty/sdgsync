@@ -1,2 +1,2 @@
-# sdgsync
+# SDGSync
 SDGSYNC NSU Hackathon
